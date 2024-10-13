@@ -1,5 +1,5 @@
 ## WHO AM I
-An software engineer based in Tokyo.
+A software engineer based in Tokyo.
 
 ## Links
 [🔗 - GitHub](https://github.com/maclt)
