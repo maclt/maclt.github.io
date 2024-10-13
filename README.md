@@ -1,15 +1,7 @@
-## 鳩野 Tシャツ一覧
+# WHO AM I
+An software engineer based in Tokyo.
 
-|文字|絵|話数|メモ|
-|--|--|--|--|
-|えかだんぴ|左腕を切断している人|14,15,16,20|[慧可断臂](https://ja.wikipedia.org/wiki/%E6%85%A7%E5%8F%AF%E6%96%AD%E8%87%82%E5%9B%B3)|
-|諸行無常|-|16,17,18||
-|点滴穿石|-|17,21|[点滴穿石とは？](https://dictionary.goo.ne.jp/word/%E7%82%B9%E6%BB%B4%E7%A9%BF%E7%9F%B3/)|
-|びせいぶつ|アメーバ|17,19||
-|ん END OF HIRAGANA|-|20||
-
-## その他 Tシャツ一覧
-
-|文字|絵|話数|メモ|
-|--|--|--|--|
-|タニキューケーオン|-|2|たまき先輩など軽音部員|
+## Links
+[GitHub](https://github.com/maclt)
+[Substack](https://maclt.substack.com/)
+[LinkedIn](https://www.linkedin.com/in/taro-murakami)
